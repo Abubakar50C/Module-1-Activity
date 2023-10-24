@@ -12,6 +12,6 @@
 
 
 - ```md
-    ![alt text](assets/images/screenshot.png)
+    ![My screenshot](screenshotHoriseon.png)
     ```
  

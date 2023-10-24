@@ -1,6 +1,6 @@
 # Web Dev. Portfolio
 
-- This is a portfolio projec tthat will display all of my work throughout my web developing career. The page will be clear and modern looking and also be fully functional to display my talent.
+- This is a portfolio project tthat will display all of my work throughout my web developing career. The page will be clear and modern looking and also be fully functional to display my talent.
 
 - My motivation for this project is to showcase my work throughout my programming career and also to display growth from when I started coding.
 

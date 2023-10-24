@@ -1,16 +1,17 @@
-# Web Dev. Portfolio
+# HTML CSS GIT CHALLENGE
 
-- This is a portfolio project tthat will display all of my work throughout my web developing career. The page will be clear and modern looking and also be fully functional to display my talent.
+- This is a project that I will be refactoring code in order to meet the user story's criteria
 
-- My motivation for this project is to showcase my work throughout my programming career and also to display growth from when I started coding.
+- My motivation to do this was to get an understanding and fele of what employers might ask of me to do in the future.
 
-- I built this project in order to test myself as to how much I will grow from the beginnings of when I first began coding all the way to when I get my certificate in full stack web development.
+- I built ths project to test myself and see how well I could implement the knowledge that I had learned from class. This exercise solidified a lot of knowledge for me.
 
-- It solves the problem of employers having to go through a hassle and open a bunch of links to view a possible future employee's work. This project makes it easy and simple to do this.
+- It solves the problem of the webpage being disorganized and not user accessible. Also the user story is not fulfilled.
 
-- I learned how to use css in order to manipulate colors, positioning, behavior, and also sizing in the dom.
+- I learned that addind alt tags to an img add to user accessibility.
 
-- A finished photo of my webpage will is here.
+
 - ```md
     ![alt text](assets/images/screenshot.png)
     ```
+ 
